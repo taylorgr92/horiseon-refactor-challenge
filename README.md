@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-# <Heriseon>
+# Heriseon
 
 ## Description
 
