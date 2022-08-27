@@ -96,7 +96,7 @@ p {
 }
 
 /*Combined classes*/
-.benefit-brand h3 , .benefit-cost h3 {
+.benefit-brand h3 , .benefit-lead, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
