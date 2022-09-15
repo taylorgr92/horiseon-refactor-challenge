@@ -1,14 +1,8 @@
-# Heriseon HTML/CSS Refactor
+# Random Password Generator
 
 ## Description
 
-My motivation for this project was to create efficient code for my client. Personally, I built the project to demonstrate and expand my knowledge on refactoring HTML and CSS. I built this project to make the code more concise and accessible for the hypothetical marketing agency Horiseon. It is an excercise in refactoring semantic elements and CSS elements. The refactoring that I have done in this project makes the code more readable and accessible. Before refactoring the lacked structure due to a scarcity of semantic elements. The images now have alt attributes which will assist people with screen readers access their website. I learned more about the 'article' and 'aside' elements which will be useful in future project building. I also leanred more about combining classes and ids in CSS.
+I created this application in order to satify the client's desire for a random password generator that lets the user set their own criteria for better security. I personally built the project to apply my knowledge of Javascript functions, if statements, and methods.  This generator lets the user specify if they want their password to have upper case or lower case letters, special characters, or numeric characters. The input of the user is then used to produce a randomized password with their chosen criteria. This project challenged my ability to break down a task down into smaller parts. I expanded my knowledge of the 'concat' method and 'while loops'. 
 
-## Installation
 
-This link leads to the repository where you can clone the code: https://github.com/taylorgr92/horiseon-refactor-challenge. 
-
-## Features
-
-The header acts as a navigation bar and the links positioned on the right link to their respective sections on the page.
 
